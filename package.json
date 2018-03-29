@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/pixi.js": "^4.7.2",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
+    "pixi.js": "^4.7.1",
+    "poi-preset-bundle-report": "^2.0.2",
+    "poi-preset-typescript": "^9.0.2",
+    "poi-preset-webpackmonitor": "^1.0.0",
+    "typescript": "^2.8.1"
+  }
+}
