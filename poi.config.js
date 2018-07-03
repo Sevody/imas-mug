@@ -6,6 +6,8 @@ module.exports = options => {
 
     entry: options.entry || './src/index.ts',
 
+    port: 4444,
+
     templateCompiler: true,
 
     presets: [
